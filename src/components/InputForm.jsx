@@ -54,7 +54,7 @@ function InputForm({ onStartGame }) {
 
   return (
     <div className={styles.container}>
-      <h1 className={styles.title}>사다리 게임</h1>
+      <h1 className={styles.title}>원동딘</h1>
 
       <div className={styles.section}>
         <h2>참가자 (최소 3명)</h2>
