@@ -1,6 +1,6 @@
-# React + Vite
+# 사다리게임 (Ladder Game)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+사다리게임 웹 애플리케이션입니다.
 
 Currently, two official plugins are available:
 
